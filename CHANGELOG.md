@@ -1,3 +1,10 @@
+# 1.0.0 (2024-05-07)
+
+
+### Features
+
+* reset initial commit ([749778d](https://github.com/bhautikbhalani105/Bhautik-Bhalani-E-Commerce-Website-Next-Js/commit/749778db58f2af132de292745650de9a4dfa707a))
+
 # [3.46.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.45.0...v3.46.0) (2024-04-13)
 
 
